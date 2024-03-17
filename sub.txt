@@ -1,6 +1,6 @@
 proxies:
   - name: sg12-microsoft
-    server: quiz.staging.vidio.com
+    server: inside165.udemy.com
     port: 443
     type: vless
     uuid: 2fc88fd2-b95c-48d2-8f5d-5ad2b5d5662e
